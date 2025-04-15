@@ -1,0 +1,23 @@
+.cousss {
+animation: ai 4s linear infinite ;
+background-color: #c7c7c7cc;
+
+}
+.cousssone {
+animation: ai 4s linear infinite  ;
+background-color: #c7c7c7cc;
+animation-delay: 0.5s;
+}
+.coussstwo {
+animation: ai 4s linear infinite ;
+background-color: #c7c7c7cc;
+animation-delay: 0.9s;
+}
+@keyframes ai{
+  0%{
+    background-color: #c7c7c7cc;
+  }
+  50%{
+    background-color: #68686893;
+  }
+}
