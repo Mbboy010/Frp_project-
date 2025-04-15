@@ -6,7 +6,7 @@
 
 > ⚠️ This project should **not** be used for any illegal activity. Always ensure you have the rightful ownership or permission before attempting to bypass FRP on any device.
 
-
+---
 
 ## 🚀 Features
 
