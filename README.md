@@ -1,6 +1,6 @@
 # FRP Bypass Tool
 
-[a mbfrpfiles.web.app/](https://mbfrpfiles.web.app/)
+[mbfrpfiles.web.app](https://mbfrpfiles.web.app/)
 
 ## 🔐 About
 
